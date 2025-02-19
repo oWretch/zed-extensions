@@ -306,6 +306,10 @@
 	path = extensions/codesandbox-theme
 	url = https://github.com/MartinRybergLaude/zed-theme-codesandbox.git
 
+[submodule "extensions/colored-zed-icons-theme"]
+	path = extensions/colored-zed-icons-theme
+	url = https://github.com/TheRedXD/zed-icons-colored-theme.git
+
 [submodule "extensions/colorizer"]
 	path = extensions/colorizer
 	url = https://github.com/tamimhasandev/colorizer.git
@@ -481,10 +485,6 @@
 [submodule "extensions/exquisite"]
 	path = extensions/exquisite
 	url = https://github.com/xqsit94/zed-xqsit-theme.git
-
-[submodule "extensions/fennel"]
-	path = extensions/fennel
-	url = https://codeberg.org/mattly/zed-lang-fennel.git
 
 [submodule "extensions/fiberplane-studio"]
 	path = extensions/fiberplane-studio
@@ -932,7 +932,7 @@
 
 [submodule "extensions/meson"]
 	path = extensions/meson
-	url = https://codeberg.org/hanna/zed-meson
+	url = https://github.com/hqnna/zed-meson
 
 [submodule "extensions/min-theme"]
 	path = extensions/min-theme
@@ -1737,6 +1737,10 @@
 [submodule "extensions/vscode-icons"]
 	path = extensions/vscode-icons
 	url = https://github.com/pranavmangal/zed-vscode-icons
+
+[submodule "extensions/vscode-light-plus"]
+	path = extensions/vscode-light-plus
+	url = https://github.com/MadLittleMods/zed-theme-vscode-light-plus.git
 
 [submodule "extensions/vscode-monokai-charcoal"]
 	path = extensions/vscode-monokai-charcoal
